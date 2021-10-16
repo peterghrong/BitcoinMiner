@@ -1,2 +1,2 @@
-# SuzeCoin
-Absolute utter shit coin with 0 value
+# BitcoinMiner
+c++ code to mine bitcoin, totally not profittable.
